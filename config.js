@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6285895247753']
+global.ownernomer = "6285895247753"
+global.premium = ['6285895247753']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'Panda Dev'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
