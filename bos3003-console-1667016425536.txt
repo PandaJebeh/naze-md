@@ -1,0 +1,73 @@
+
+> naze@1.2.3 start
+> node index.js
+
+Connected... {
+  connection: 'connecting',
+  receivedPendingNotifications: false,
+  qr: undefined
+}
+Connected... {
+  qr: '2@i1bPD8xgTADz7IKXbpyFcbL5KEpqZLTZHfFeWrxNilu40vhCjCQpaEeY9e8iZ3Vl/Um6VLslg5mneA==,TCGbeEw7MoEIa0YMKV8bpLtKndXAPQaqAFu9OadGB3w=,QoRFUkBG7VaP2Vz2AC71adBoxDOujUtXQrcekpQ1SRc=,J4RhdvWGgPH5tzXQzWEKkoeuMgiITmzo3x+Qytfnlxg='
+}
+▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+█ ▄▄▄▄▄ █▄▄█▄ ▄█ █▀█▄█ ▄▄ ▀▀ ▄▄▄▄███▀ ▄▀ ▄█ ▀██ ▄▄▄▄▄ █
+█ █   █ █ ▀█▀  ██▄▀▀▀▀█▄ ▀▀▀ █▄▀ ▄█▀▀ ▀ ██▀▀▄▀█ █   █ █
+█ █▄▄▄█ █▄ ▄█ █ ▄▀▀▀█▄███ ▄▄▄ ▀▀▀  █▀█▄ █   ███ █▄▄▄█ █
+█▄▄▄▄▄▄▄█▄█▄▀ █▄▀▄▀ █ ▀▄▀ █▄█ ▀ █▄█▄▀ ▀ █ ▀▄█ █▄▄▄▄▄▄▄█
+█   ▄▀▀▄█▄▀▄▀▄█▄█ ▄█ ▄ ▄▀▄  ▄▄█ ██▄█▄█ ▄ ▄▀  ▄ ██▄  ▀ █
+█▀█▄ █ ▄ █▄ ▄ █▄▀▄ ▄█▄▀█ ▄█▄▄▀▀▄▀▀█ █▀▀▀█ ▄█ █ ▄▄ ▄█ ▀█
+█▀█▄▄█▀▄▄▄▄▄██ ▀ ▄ ▄▀ ██▄ █▄  ██▄█ █▄ ▀▀██▀▄▀ ▀▄▄▄█ ▄██
+█▀█▄▀▄█▄▄██ █  ██▀▄ █▀███  ▄ ▄▄▀ ▀  ▀█ █ ▄ ▄ ▄▄▄▀█ ▄▄▄█
+██▄ █▀ ▄▀ ▀▀▀██▄▄▀▀▀▄█ ▀▀▀▄▄  ▀▄█▄▀ ██▄▄▄█▄███  ██ ▄▀▄█
+██▀█  ▄▄▄▄ ▄▄▄█▀██▄█▄█▀▀█▄▄ █▀▄▄ ▀▄█▀  ▀▄  █▀ ▄█▄▄ ▀ ██
+█▄  ▄█▀▄  ▀▄▄▀▀███▄▀ █   ▀▀▄▀█  ██ ▄▄█ █▄▄▀ ▀███▄▀▄▄█▀█
+█▀▀▄ ▄▄▄▀▀▀  ▀ ▀▄▄▄▄▄▄▄▀█▄▄█▄█ █  ▄  ▀█▄▀▀▀█▄████▄█▄▀▀█
+██▄▀▀ ▄▄▄  █ █▄  ▀    █▀  ▄▄▄ ██ ▀▀▄▀▄  ██▄▄█ ▄▄▄ ▀▀█▀█
+█ ▄▀█ █▄█ █▄▄  ██▀▀▄██▀   █▄█ ▀    ▄ █▀   ▀▀█ █▄█  █ ▄█
+██ ▄▀ ▄▄▄ ▄ ▄█  ▀▀▀██▄▄█▀  ▄  ▀▄▀  ▀▀█▄█ ▀ ▄ ▄   ▄█▄▀██
+█▀██ █ ▄ ██▄█ ▀▀ █▄  ▄▀▄▀▀ ▀▀▄█▀▀▄███ ▄  █ ▀  ██ ▄█▀█▀█
+█▀█ ▄▀█▄▀▀▄▄██ █ ▄▀█▀█▄ ▀ █▀█▄█▀ █▄▄▀▀ ▄ ▄      █ ▀▄ ▄█
+█▀▄  ▄█▄█▀ ▄█▀█▄▄▀█▀ ▀ ▀▄▄▄▄ ▀ ▄▀█▄ ▀█▄█ ▄▄▀█▀ ▀▀▀▄█▄██
+█ ▄▄▄▀ ▄  █  ▀ █▀▄█ ▀ ███ ▄▀ ▄▄█▄▀▀▄ ▄ ▀ ▀▀██▀  █▄██▄██
+█▀  ▀▄▀▄▀███▄ █ █   ▀▀▀▀▀▄▀▄▄█ █▀▄ ▄▀▄▄  ▄  ▄▀▄▄▀▀ █▄▄█
+█▀▀█▄▄▄▄▀▄▀▀▄▄ █▀█▄█▀█▄██▀   ▀▀▄▄▄▀▀███▄▄█▀██▄ ▀█▄ █▀██
+█▄ ▀▄▄▄▄▀▀▀▄█▀▄   ▀███▀█▀▀▀▄█▄ ▄▄█▄▄▄███   █▀▄█▀▄██  ██
+████▄██▄█ █▄▀█ ▄█▄▄█ █▄ █ ▄▄▄ ▀▀ ███▄▀ ▄█ ▀ ▄ ▄▄▄ █ ▀██
+█ ▄▄▄▄▄ ██  ▀▄▀██▀█ ▄█ ▄▀ █▄█  █ ▀█ █▀▄ ▀▀▄█  █▄█ █▄ ▀█
+█ █   █ █▀▄ ▄ ▀▀██ █   ▀█    ▄▄▄ ▀▀█▄▄▀ ▀██▄█ ▄ ▄▄█  ██
+█ █▄▄▄█ █ ██▄█▄  ▄███▄▄ █▄  ▄▀█▄▀▀▀▄▀▄ ▄▀▄▄ ▀▀█▄ █▀▄ ██
+█▄▄▄▄▄▄▄█▄▄▄▄▄▄█▄▄██▄█████████▄██▄▄▄██▄▄▄██████▄██▄█▄██
+
+Connected... { isNewLogin: true, qr: undefined }
+Restart Required, Restarting...
+Connected... {
+  connection: 'close',
+  lastDisconnect: {
+    error: Error: Stream Errored (restart required)
+        at WebSocket.<anonymous> (/app/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:415:13)
+        at WebSocket.emit (node:events:513:28)
+        at /app/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:221:35
+        at Object.decodeFrame (/app/node_modules/@adiwajshing/baileys/lib/Utils/noise-handler.js:131:17)
+        at WebSocket.onMessageRecieved (/app/node_modules/@adiwajshing/baileys/lib/Socket/socket.js:197:15)
+        at WebSocket.emit (node:events:513:28)
+        at Receiver.receiverOnMessage (/app/node_modules/ws/lib/websocket.js:1178:20)
+        at Receiver.emit (node:events:513:28)
+        at Receiver.dataMessage (/app/node_modules/ws/lib/receiver.js:513:14)
+        at Receiver.getData (/app/node_modules/ws/lib/receiver.js:446:17) {
+      data: [Object],
+      isBoom: true,
+      isServer: true,
+      output: [Object]
+    },
+    date: 2022-10-29T04:00:09.325Z
+  }
+}
+Connected... {
+  connection: 'connecting',
+  receivedPendingNotifications: false,
+  qr: undefined
+}
+Connected... { isOnline: true }
+Connected... { connection: 'open' }
+Connected... { receivedPendingNotifications: true }
